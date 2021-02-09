@@ -1,16 +1,18 @@
-# Credits
+# Credits and Introduction
 
 A big thanks to creators and maintainers of https://github.com/firstcontributions/first-contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below ✨
 
-_If you're not comfortable with command line, you can [learn the fundamentals of the UNIX command line.](https://progate.com/lessons/commandline/study/1)_
+# Pre-Requisites
 
-_If you're new to Git, you can [learn the fundamentals here.](https://progate.com/lessons/git/study/1)_
+- If you're not comfortable with command line, it is recommended to [learn the fundamentals of the UNIX command line.](https://progate.com/lessons/commandline/study/1)
+
+- If you're new to Git, you can quickly [learn the fundamentals here.](https://progate.com/lessons/git/study/1)
+
+- Also, if you don't have git on your machine, [please install it from here.](https://git-scm.com/downloads)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
-
-_Also, Ii you don't have git on your machine, [please install it from here.](https://git-scm.com/downloads)_
 
 ## Fork this repository
 
