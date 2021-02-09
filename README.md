@@ -6,9 +6,11 @@ This project aims to simplify and guide the way beginners make their first contr
 
 _If you're not comfortable with command line, you can [learn the fundamentals of the UNIX command line.](https://progate.com/lessons/commandline/study/1)_
 
+_If you're new to Git, you can [learn the fundamentals here.](https://progate.com/lessons/git/study/1)_
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-_If you don't have git on your machine, [please install it from here.](https://git-scm.com/downloads)_
+_Also, Ii you don't have git on your machine, [please install it from here.](https://git-scm.com/downloads)_
 
 ## Fork this repository
 
