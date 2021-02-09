@@ -6,9 +6,9 @@ This project aims to simplify and guide the way beginners make their first contr
 
 # Pre-Requisites
 
-- If you're not comfortable with command line, it is recommended to [learn the fundamentals of the UNIX command line.](https://progate.com/lessons/commandline/study/1)
+- If you're not comfortable with command line, you can [learn the fundamentals of the UNIX command line.](https://progate.com/lessons/commandline/study/1)
 
-- If you're new to Git, you can quickly [learn the fundamentals here.](https://progate.com/lessons/git/study/1)
+- If you're new to Git, you can [learn the fundamentals here.](https://progate.com/lessons/git/study/1)
 
 - Also, if you don't have git on your machine, [please install it from here.](https://git-scm.com/downloads)
 
